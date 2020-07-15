@@ -6,7 +6,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 <p align="center">
-  <img src="docs/_static/pyguest-hex.png" width="300">
+  <img src="docs/pyguest-hex.png" width="300">
 </p>
 
 A simple python package for simulating event attendance from a guest list.
