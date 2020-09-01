@@ -2,7 +2,7 @@
 name = "pyguest"
 version = "0.1.0"
 description = "A simple python package for simulating event attendance from a guest list."
-authors = ["Tomas Beuzen <tomas.beuzen@gmail.com>"]
+authors = ["Tomas Beuzen <tomas.beuzen@stat.ubc.ca>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
