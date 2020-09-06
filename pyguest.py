@@ -35,8 +35,8 @@ def simulate(guest_probability: list, simulations: int = 100):
 
     Returns
     -------
-    [type]
-        [description]
+    ndarray
+        Array of simulated guest attendance
     """
     return np.apply_along_axis(
         __bernoulli_sim, 0, np.atleast_2d(guest_probability), simulations=simulations
